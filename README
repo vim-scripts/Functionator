@@ -1,0 +1,5 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=2795
+
+This is a simple script I use that shows the name of the function the cursor is currently in when gn is pressed, and goes to the [count] line of that function when [count]gn is used.
+
+Currently supports: C, Objective-C, JavaScript, Python, and Vim script.
